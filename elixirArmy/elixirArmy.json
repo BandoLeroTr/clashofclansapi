@@ -1,3 +1,4 @@
+[
 {
   "Barbarian": [
     "Level",
@@ -85,7 +86,7 @@
     "14d",
     "13 "
   ]
-}{
+},{
   "Archer": [
     "Level",
     "Damage per Second",
@@ -172,7 +173,7 @@
     "14d",
     "13 "
   ]
-}{
+},{
   "Giant": [
     "Level",
     "Damage per Second",
@@ -259,7 +260,7 @@
     "14d",
     "13 "
   ]
-}{
+},{
   "Goblin": [
     "Level",
     "Damage per Second",
@@ -346,7 +347,7 @@
     "14d",
     "13 "
   ]
-}{
+},{
   "Wall Breaker": [
     "Level",
     "Damage per Second",
@@ -433,7 +434,7 @@
     "16d",
     "13 "
   ]
-}{
+},{
   "Balloon": [
     "Level",
     "Damage per Second",
@@ -520,7 +521,7 @@
     "16d",
     "13 "
   ]
-}{
+},{
   "Wizard": [
     "Level",
     "Damage per Second",
@@ -595,7 +596,7 @@
     "8d",
     "10 "
   ]
-}{
+},{
   "Healer": [
     "Level",
     "Damage per Second",
@@ -670,7 +671,7 @@
     "8d",
     "10 "
   ]
-}{
+},{
   "Dragon": [
     "Level",
     "Damage",
@@ -782,7 +783,7 @@
     "16d",
     "13 "
   ]
-}{
+},{
   "P.E.K.K.A": [
     "Level",
     "Damage",
@@ -894,7 +895,7 @@
     "16d",
     "13 "
   ]
-}{
+},{
   "Baby Dragon": [
     "Level",
     "Damage per Second",
@@ -985,7 +986,7 @@
     "17d",
     "12 "
   ]
-}{
+},{
   "Miner": [
     "Level",
     "Damage per Second",
@@ -1076,7 +1077,7 @@
     "17d",
     "12 "
   ]
-}{
+},{
   "Electro Dragon": [
     "Level",
     "Damage per Second",
@@ -1163,7 +1164,7 @@
     "16d",
     "13 "
   ]
-}{
+},{
   "Yeti": [
     "Level",
     "Damage per Second",
@@ -1250,7 +1251,7 @@
     "16d",
     "13 "
   ]
-}{
+},{
   "Dragon Rider": [
     "Level",
     "Healing per Second",
@@ -1317,7 +1318,7 @@
     "16d",
     "12 "
   ]
-}{
+},{
   "Electro Titan": [
     "Level",
     "Healing per Second",
@@ -1385,3 +1386,4 @@
     "12 "
   ]
 }
+]
