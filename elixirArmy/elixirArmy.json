@@ -1,4 +1,3 @@
-[
 {
   "Barbarian": [
     "Level",
@@ -85,9 +84,7 @@
     "16,000,000",
     "14d",
     "13 "
-  ]
-},{
-  "Archer": [
+  ],"Archer": [
     "Level",
     "Damage per Second",
     "Damage per Attack",
@@ -172,9 +169,7 @@
     "16,000,000",
     "14d",
     "13 "
-  ]
-},{
-  "Giant": [
+  ],"Giant": [
     "Level",
     "Damage per Second",
     "Damage per Attack",
@@ -259,9 +254,7 @@
     "16,000,000",
     "14d",
     "13 "
-  ]
-},{
-  "Goblin": [
+  ],"Goblin": [
     "Level",
     "Damage per Second",
     "Damage per Attack",
@@ -346,9 +339,7 @@
     "16,000,000",
     "14d",
     "13 "
-  ]
-},{
-  "Wall Breaker": [
+  ],"Wall Breaker": [
     "Level",
     "Damage per Second",
     "Damage per Attack",
@@ -433,9 +424,7 @@
     "16,500,000",
     "16d",
     "13 "
-  ]
-},{
-  "Balloon": [
+  ],"Balloon": [
     "Level",
     "Damage per Second",
     "Damage per Attack",
@@ -520,9 +509,7 @@
     "16,500,000",
     "16d",
     "13 "
-  ]
-},{
-  "Wizard": [
+  ],"Wizard": [
     "Level",
     "Damage per Second",
     "Damage per Attack",
@@ -595,9 +582,7 @@
     "6,300,000",
     "8d",
     "10 "
-  ]
-},{
-  "Healer": [
+  ],"Healer": [
     "Level",
     "Damage per Second",
     "Damage per Attack",
@@ -670,9 +655,7 @@
     "6,300,000",
     "8d",
     "10 "
-  ]
-},{
-  "Dragon": [
+  ],"Dragon": [
     "Level",
     "Damage",
     "Damage when destroyed",
@@ -782,9 +765,7 @@
     "16,500,000",
     "16d",
     "13 "
-  ]
-},{
-  "P.E.K.K.A": [
+  ],"P.E.K.K.A": [
     "Level",
     "Damage",
     "Damage when destroyed",
@@ -894,9 +875,7 @@
     "16,500,000",
     "16d",
     "13 "
-  ]
-},{
-  "Baby Dragon": [
+  ],"Baby Dragon": [
     "Level",
     "Damage per Second",
     "Damage per Attack",
@@ -985,9 +964,7 @@
     "17,000,000",
     "17d",
     "12 "
-  ]
-},{
-  "Miner": [
+  ],"Miner": [
     "Level",
     "Damage per Second",
     "Damage per Attack",
@@ -1076,9 +1053,7 @@
     "17,000,000",
     "17d",
     "12 "
-  ]
-},{
-  "Electro Dragon": [
+  ],"Electro Dragon": [
     "Level",
     "Damage per Second",
     "Damage per Attack",
@@ -1163,9 +1138,7 @@
     "17,200,000",
     "16d",
     "13 "
-  ]
-},{
-  "Yeti": [
+  ],"Yeti": [
     "Level",
     "Damage per Second",
     "Damage per Attack",
@@ -1250,9 +1223,7 @@
     "17,200,000",
     "16d",
     "13 "
-  ]
-},{
-  "Dragon Rider": [
+  ],"Dragon Rider": [
     "Level",
     "Healing per Second",
     "Healing per Pulse",
@@ -1317,9 +1288,7 @@
     "16,000,000",
     "16d",
     "12 "
-  ]
-},{
-  "Electro Titan": [
+  ],"Electro Titan": [
     "Level",
     "Healing per Second",
     "Healing per Pulse",
@@ -1386,4 +1355,3 @@
     "12 "
   ]
 }
-]
